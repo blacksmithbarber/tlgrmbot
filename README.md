@@ -1,0 +1,3 @@
+This is a thgrm trading bot
+the owner tlgrm ID is @radicalmanfiyek
+This page is undeer construction...
